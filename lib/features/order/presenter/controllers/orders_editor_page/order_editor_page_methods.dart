@@ -1,0 +1,3 @@
+class OrderEditorPageMethods {
+  OrderEditorPageMethods();
+}
